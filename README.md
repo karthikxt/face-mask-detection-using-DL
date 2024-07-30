@@ -62,9 +62,5 @@ The trained model is evaluated on the testing set to determine its accuracy and 
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug fixes, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Feel free to customize this README to better fit your project's specifics.
 
 
